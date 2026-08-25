@@ -1,3 +1,8 @@
+# Documentation
+
+AlphaAnswer documentation highlighting the contributors and different aspects to the project: [AlphaAnswer_ Documentation.pdf](https://github.com/user-attachments/files/31398157/AlphaAnswer_.Documentation.pdf)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
